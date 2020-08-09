@@ -1,2 +1,2 @@
 # bash-mkgo
-creates a dir and goes within that dir
+creates a dir in a bash shell and goes within that dir
