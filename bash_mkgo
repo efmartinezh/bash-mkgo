@@ -1,0 +1,6 @@
+#!/bin/bash
+function mkgodir {
+	mkdir $1
+	cd "$(pwd)/$1"
+}
+mkgodir testdir
